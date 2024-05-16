@@ -1,0 +1,1 @@
+define({ availableImg: ["Albayati2024Acceptance","Ashfaq2020Intention","Baek2023Creepiness","Beck2016Visual","Brennen2020Explainable","Choudhury2023Adoption","Farhart2023Analyses","Farina2023Review","Ltifi2023Trust","Mohammed2023Decoding","Sohail2023Taxonomy"]});
